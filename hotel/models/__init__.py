@@ -1,1 +1,1 @@
-from. import charges, roomtypes, rooms, guests
+from. import charges, roomtypes, rooms, guests, guestregistration

@@ -22,7 +22,7 @@
         'views/roomtypes.xml',
         'views/rooms.xml',        
         'views/guests.xml',
-        # 'views/guestregistration.xml',
+        'views/guestregistration.xml',
         # 'views/hoteldocuments.xml',                
     ],
    
